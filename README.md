@@ -1,7 +1,7 @@
-# KidsPark
+# kidSpark
 
 ## Project Description
-KidsPark is an educational platform for children (ages 5-18) to learn design, coding, AI, marketing, and entrepreneurship through interactive, project-based learning. It features gamification, challenges, and AI-powered adaptive learning to enhance engagement and skill development.
+kidSpark is an educational platform for children (ages 5-18) to learn design, coding, AI, marketing, and entrepreneurship through interactive, project-based learning. It features gamification, challenges, and AI-powered adaptive learning to enhance engagement and skill development.
 
 ## How to Access the Project
 The project can be accessed through the following links:
