@@ -1,4 +1,8 @@
-# KIDSpark
-KidsPark is an innovative educational platform designed to empower children and teenagers (ages 5-18) with essential skills in design, coding, marketing, entrepreneurship and artificial intelligence. The platform offers an interactive learning experience that combines project-based learning, challenges, gamified content and AI-powered adaptive learning, fostering creativity, critical thinking  and innovation.
+# KidsPark
 
-https://www.figma.com/design/0XBIWYzdZ2hjOT2eUDHIhT/kidspark?node-id=455-533&t=hnzAhf2krk9SS6Ki-1
+## Project Description
+KidsPark is an educational platform for children (ages 5-18) to learn design, coding, AI, marketing, and entrepreneurship through interactive, project-based learning. It features gamification, challenges, and AI-powered adaptive learning to enhance engagement and skill development.
+
+## How to Access the Project
+The full project details are available in **PDF format**.
+[View the project](https://drive.google.com/file/d/10uWL_iijwF0-cxAOwbgh8w6GOAnabMe5/view?usp=sharing).
