@@ -5,5 +5,5 @@ kidSpark is an educational platform for children (ages 5-18) to learn design, co
 
 ## How to Access the Project
 The project can be accessed through the following links:
-- **Google Drive Folder**: [Google Drive Folde](https://drive.google.com/drive/folders/1uMPoICbFc1M-fJNsJPdfa1DwCaogdwa8?usp=drive_link)
+- **Google Drive Folder**: [Google Drive Folder](https://drive.google.com/drive/folders/1uMPoICbFc1M-fJNsJPdfa1DwCaogdwa8?usp=drive_link)
 - **Figma**: [View in Figma](https://www.figma.com/design/0XBIWYzdZ2hjOT2eUDHIhT/kidspark?node-id=455-533&t=394ovpLRDexlpuS9-1)
